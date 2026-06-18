@@ -1,0 +1,17 @@
+/.env
+/.env.*
+/docs/
+/img/
+/.copier/
+/.github/
+/scripts/
+/hooks/
+/compose.override.yml
+/compose.traefik.yml
+/compose.yml
+/render.yaml
+/backend/Dockerfile
+/backend/Dockerfile.playwright
+/frontend/Dockerfile
+/frontend/Dockerfile.playwright
+.DS_Store
